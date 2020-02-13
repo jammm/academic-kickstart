@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include light transport simulation, real-time rendering and machine learning.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
 education:
   courses:
   - course: MS in Information Science and Technology (Creative Informatics)
@@ -63,6 +58,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm currently a second year Master's student at the University of Tokyo, supervised by Professor Toshiya Hachisuka. My research interests include light transport simulation, real-time rnedering and machine learning.
+I'm currently a second year Master's student at the University of Tokyo, supervised by Professor Toshiya Hachisuka. My research interests include light transport simulation, real-time rendering and machine learning.
 
 
