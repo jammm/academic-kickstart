@@ -15,10 +15,17 @@ role: Masters Student
 # Organizations/Affiliations
 organizations:
 - name: The University of Tokyo
-  url: "https://www.ci.i.u-tokyo.ac.jp/~hachisuka/"
+  url: "https://www.u-tokyo.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include light transport simulation, real-time rendering and machine learning.
+
+# Interests
+interests:
+- Light Transport Simulation
+- Real-time Rendering
+- Machine Learning
+
 
 education:
   courses:
@@ -61,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm currently a second year Master's student at the University of Tokyo, supervised by Professor Toshiya Hachisuka. My research interests include light transport simulation, real-time rendering and machine learning.
+I'm currently a second year Master's student at the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/). My research interests include light transport simulation, real-time rendering and machine learning.
 
 
