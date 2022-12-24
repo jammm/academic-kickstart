@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm currently a Research Engineer at AMD Japan, doing R&D work involving path tracing with neural rendering. I finished my master's from the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/). My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
+I'm currently a Research Engineer at AMD Japan, doing R&D work involving path tracing with neural rendering. I completed my master's from the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/). My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
 
 
