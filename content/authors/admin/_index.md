@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Tokyo
-  url: "https://www.u-tokyo.ac.jp/en/"
+- name: AMD Japan
+  url: "https://www.amd.com/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include light transport simulation, real-time rendering and machine learning.
+bio: My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
 
 # Interests
 interests:
 - Light Transport Simulation
 - Real-time Rendering
-- Machine Learning
+- Neural Rendering / Machine Learning
 
 
 education:
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm currently a second year Master's student at the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/). My research interests include light transport simulation, real-time rendering and machine learning.
+I'm currently a Research Engineer at AMD Japan, doing R&D work involving path tracing with neural rendering. I finished my master's from the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/). My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
 
 
