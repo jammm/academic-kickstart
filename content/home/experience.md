@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2024-03-01"
   date_end = ""
   description = """
-  * Research and implementation of soft-segment background removal of e-commerce product pictures using deep learning.
+  * Focusing on 3D neural rendering workloads and GPU optimizations.
   """
 
 [[experience]]
