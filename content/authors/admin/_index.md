@@ -14,22 +14,22 @@ role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: AMD Japan
-  url: "https://www.amd.com/en"
+- name: Stability AI
+  url: "https://stability.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
+bio: My interests lie in GPU optimization, Neural Rendering with Generative 3D models and Real-Time ray tracing.
 
 # Interests
 interests:
-- Light Transport Simulation
-- Real-time Rendering
+- Ray Tracing Ray Tracing
+- Generative 3D models
 - Neural Rendering / Machine Learning
 
 
 education:
   courses:
-  - course: MS in Information Science and Technology (Creative Informatics)
+  - course: Masters in Information Science and Technology (Creative Informatics)
     institution: The University of Tokyo
     year: 2021
   - course: BE in Computer Engineering
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm currently a Research Engineer at AMD Japan, doing R&D work involving path tracing with neural rendering. I completed my master's from the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/). My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
+I'm currently a Machine Learning Engineer, 3D at Stability AI, doing R&D work involving generative 3D models such as [SF3D](https://stable-fast-3d.github.io/). Before that, I worked as a Research Engineer at AMD Japan, doing R&D work involving path tracing with neural rendering and contributed towards new HW features for these workloads. I completed my master's from the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/). My research interests include light transport simulation, real-time rendering, neural rendering and machine learning.
 
 

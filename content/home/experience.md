@@ -18,6 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Machine Learning Engineer, 3D"
+  company = "Stability AI"
+  company_url = "https://stability.ai/"
+  location = "London, UK"
+  date_start = "2024-03-01"
+  date_end = ""
+  description = """
+  * Research and implementation of soft-segment background removal of e-commerce product pictures using deep learning.
+  """
+
+[[experience]]
+  title = "Research Engineer"
+  company = "Advanced Micro Devices (AMD)"
+  company_url = "https://www.amd.com/en.html"
+  location = "Tokyo, Japan"
+  date_start = "2021-04-01"
+  date_end = "2024-03-31"
+  description = """
+  R&D in Ray Tracing and Machine Learning for Neural Rendering.
+
+  * Influenced multiple future hardware architectures on neural rendering by developing forward-looking workloads and evaluating them under different hardware constraints.
+
+  * Developed an RDNA3 AI accelerated demo in 2.5 weeks, shown off at the Las Vegas launch event on November 3rd, using optimized fully fused MLP inference kernels and grid encoding. Inference kernels written from scratch using WMMA instructions for RDNA3 architecture. Demonstrated a 2.7x inference performance improvement on the 7900 XTX compared to the 6950 XT. Received an award by Rick Bergman for this effort. 
+
+  * Wrote a blog on how to use RDNA3's WMMA instructions with sample code - https://gpuopen.com/learn/wmma_on_rdna3/ - well received both internally and externally.
+
+  * Re-implemented instant-ngp (Instant NeRF) from scratch, which includes fully-fused MLP kernels with WMMA optimizations (tensor core usage), grid encoding and occupancy grids for in-house research work with competitive performance.
+
+  * Ported tiny-cuda-nn and instant-ngp to HIP, supporting RDNA3 and MI GPUs, utilizing the WMMA ops of RDNA3 and matrix cores of MI.
+
+  * Wrote a single .exe prototype for running stable diffusion on AMD GPUs using SHARK from nod.ai. Prototype adopted and used extensively in production today. Collaborated with nod.ai to get it running on RDNA3. Won the RTG Next 5% award from David Wang for this work.
+
+  * Enabled Windows support of the ROCm backend for nod.ai SHARK (later acquired by AMD). Demonstrated the viability of the ROCm backend on Windows as a more flexible alternative to the Vulkan backend. Received an executive spotlight award for this work.
+
+  * Enabled HIP support for llamafile and contributed towards RDNA3 compatibility for llama.cpp on Windows.
+
+  Also worked on Radeon™ ProRender - Delivered massive CPU performance improvements and developed a HIP based backend for AMD GPUs, with an initial HIP port from OpenCL done within 48 hours.
+  """
 
 [[experience]]
   title = "Research Scientist (Part-Time)"

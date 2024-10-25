@@ -23,6 +23,10 @@
   url = "https://www.linkedin.com/in/adyaman/"
   weight = 15
 
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 18
 
 
 #[[main]]
