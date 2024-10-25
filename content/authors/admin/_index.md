@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer
+role: Machine Learning Engineer, 3D
 
 # Organizations/Affiliations
 organizations:
