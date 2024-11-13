@@ -22,7 +22,7 @@ bio: My interests lie in GPU optimization, Neural Rendering with Generative 3D m
 
 # Interests
 interests:
-- Ray Tracing Ray Tracing
+- Ray Tracing
 - Generative 3D models
 - Neural Rendering / Machine Learning
 
